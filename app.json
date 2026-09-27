@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Panyu Timetable",
+    "slug": "panyu-timetable",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "plugins": ["expo-notifications"]
+  }
+}
